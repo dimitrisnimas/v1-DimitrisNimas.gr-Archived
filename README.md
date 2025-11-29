@@ -1,6 +1,6 @@
 # Old Personal Website (Archived v1)
 
-This repository contains the source code for my old personal website, built using pure HTML and CSS.  
+This repository contains the source code for my archived personal website, built using pure HTML and CSS.  
 The site is no longer in use or maintained — it's here for reference and archival purposes only.
 
 ## 📁 What's Inside
